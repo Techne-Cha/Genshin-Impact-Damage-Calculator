@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Data Files
+적내성.dat
+각청.txt
+노엘.txt
+클레.txt
+행추.txt
