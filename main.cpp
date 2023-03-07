@@ -13,7 +13,7 @@ int main(void)
 	console(30, 30);
 	CursorView(0);
 	box(0, 0, 28, 28, "원신 데미지 계산 프로그램", ALIGNMENT::CENTER);
-	box(0, 1, 28, 1, "Version 1.35", ALIGNMENT::RIGHT, 0);
+	box(0, 1, 28, 1, "Version 2.01", ALIGNMENT::RIGHT, 0);
 	box(0, 2, 28, 1, "만든이: 차민호", ALIGNMENT::RIGHT, 0);
 	box(0, 3, 28, 1, "press space to start", ALIGNMENT::CENTER, 0);
 	int endFlag = 1;		// 플래그
